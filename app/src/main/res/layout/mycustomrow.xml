@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+<TextView
+        android:text="Food Name:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/food_name_label"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp" />
+
+    <TextView
+        android:text="Diet Plan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/food_name_label"
+        android:id="@+id/food_name"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+         />
+
+
+
+    <ImageView
+        android:src="@drawable/dietplan"
+        android:layout_width="50dp"
+        android:layout_height="45dp"
+        android:layout_toRightOf="@id/food_name"
+        android:id="@+id/food_image"
+        android:scaleType="fitCenter"
+        android:layout_margin="10dp"
+        />
+
+
+
+    <TextView
+        android:text="Calories:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/calories_label"
+        android:layout_toRightOf="@+id/food_image"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp" />
+
+    <TextView
+        android:text="Diet Plan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/calories_label"
+        android:id="@+id/calories"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        />
+
+
+
+
+
+
+</RelativeLayout>

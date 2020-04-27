@@ -1,0 +1,44 @@
+Apple
+Banana
+Grape	
+Mango
+Orange	
+Pear	
+Peach	
+Pineapple	
+Strawberry	
+Watermelon	 	 	 
+Asparagus	
+Bean curd	
+Broccoli	
+Carrots	
+Cucumber	
+Eggplant	
+Lettuce	
+Tomato	 	 	 
+Beef, regular, cooked
+Chicken, cooked	
+Egg	
+Fish, Catfish, cooked	
+Pork, cooked	
+Shrimp, cooked	
+Bread, regular	
+Butter	
+Caesar salad	
+Cheeseburger	
+Chocolate	
+Corn	
+Hamburger	
+Pizza	
+Potato (uncooked)	
+Rice, cooked	
+Sandwich	 	 	 
+Beer, regular	
+Coca-Cola Classic	
+Diet Coke	
+Milk, low-fat (1%)	
+Milk, low-fat (2%)	
+Milk, whole	
+Orange Juice / Apple Cider	
+Yogurt, low-fat	
+Yogurt, non-fat	
